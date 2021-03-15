@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lucas Siqueira
+- 👀 I’m interested in ReactJS, React Native and game development
+- 🌱 I’m currently learning React JS
+- 📫 How to reach me https://www.linkedin.com/in/lucasvss2/
