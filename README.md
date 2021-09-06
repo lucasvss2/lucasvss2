@@ -18,5 +18,5 @@
 
 
 - 👀 I’m interested in ReactJS, React Native and game development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS and Next JS
 
