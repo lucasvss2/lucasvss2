@@ -17,6 +17,6 @@
 </p>
 
 
-- 👀 I’m interested in ReactJS, React Native and game development
-- 🌱 I’m currently learning React JS, Next JS and Electron
+- 👀 I’m interested in ReactJS, React Native, Flutter and game development
+- 🌱 I’m currently learning React JS, Next JS,  and Electron
 
