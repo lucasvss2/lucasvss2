@@ -17,5 +17,5 @@
 
 
 - 👀 I’m interested in ReactJS, React Native, Flutter and game development
-- 🌱 I’m a fron-end developer focused on React, React Native and Flutter
+- 🌱 I’m a front-end developer focused on React, React Native and Flutter
 
